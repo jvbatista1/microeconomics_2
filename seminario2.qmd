@@ -1,0 +1,22 @@
+---
+title: "Moral hazard and rationing in credit market"
+author: "Victor Batista, 549434"
+format: revealjs
+editor: visual
+
+bibliography: export-data.bib
+---
+
+## Introduction
+
+@macho-stadler_introduction_2001 presents @Bester1987 model, that explains the existence of rationing in the credit market as a consequence of a moral hazard problem. We say that a firm's credit is rationed if it cannot obtain all the money it wants event though it is prepared to pay the current market rate of interest.
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+## References
